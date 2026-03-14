@@ -1,4 +1,4 @@
-# 📦 CoreInventory – Inventory Management System
+# CoreInventory – Inventory Management System
 
 CoreInventory is a **modular Inventory Management System (IMS)** designed to digitize and streamline stock operations within a business.  
 It replaces manual registers, Excel sheets, and scattered tracking methods with a **centralized, real-time platform** for managing products, warehouses, and inventory movements efficiently.
